@@ -18,3 +18,4 @@ abspath = os.path.abspath('dados1.txt')
 
 print("Caminho relativo:", relpath)
 print("Caminho absoluto:", abspath)
+
