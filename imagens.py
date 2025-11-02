@@ -39,7 +39,7 @@ def main():
     modified_img = Image.fromarray(modified_data)
     modified_img.show()
 
-    img.save("simple_icon_invertido.png")
+    modified_img.save("simple_icon_invertido.png")
 
 if __name__ == "__main__":
     main()
